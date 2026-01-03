@@ -1,0 +1,12 @@
+{
+    "geode": "v3.0.0",
+    "gd": {
+        "android": "*"
+    },
+    "id": "com.plybiter.adorablo",
+    "name": "Adoraboo Reminder",
+    "version": "v1.1.0",
+    "developer": "PlyBiter",
+    "description": "Hourly Ad-Toll system for the Adoraboo infinite window!",
+    "tags": ["utility"]
+}
